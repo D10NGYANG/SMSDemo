@@ -19,7 +19,6 @@ import kotlinx.coroutines.launch
 import kotlin.coroutines.resume
 import kotlin.coroutines.suspendCoroutine
 
-
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
